@@ -33,11 +33,8 @@ SakuraiSenrin是 服务于GalGame玩家 的轻量级QQ机器人
 请参照协议二次分发/进行修改 <br>
 GitHub License页 : [SakuraiSenrin/License](https://github.com/Hajimarino-HOPE/SakuraiSenrin/blob/main/LICENSE)
 :::
-+ 商业使用 
-+ 专利使用
-+ 私人使用
-+ 二次分发
-+ 进行修改
++ 商业/专利/私人 使用 
++ 进行 修改/二次分发
 >+ 二次分发必须包括版权申明与此协议
 >+ 必须标注于何处修改
 >+ 二次分发必须以相同协议
